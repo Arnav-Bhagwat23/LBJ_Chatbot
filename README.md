@@ -1,3 +1,7 @@
+This is a project I made to help school kids learn better using AI. This is a Character AI style emulator where students can speak to Lyndon Baines Johnson, the 36th president of the USA. 
+This model has been fine-tuned by training  it on seminal literature on LBJ. Have included his own autobiography along with the Robert Caro books and whatever material I could scrape from the LBJ library. 
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
